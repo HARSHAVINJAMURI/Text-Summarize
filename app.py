@@ -7,7 +7,7 @@ import heapq
 import os
 from string import punctuation
 # import nltk
-# nltk.download('all')
+nltk.download('all')
 
 # Download required nltk packages
 nltk.download("punkt")
