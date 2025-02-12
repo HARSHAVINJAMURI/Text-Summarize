@@ -2,3 +2,4 @@ Flask
 beautifulsoup4
 nltk
 lxml
+bs4
